@@ -4,5 +4,6 @@ A simple python program built with tkinter to translate alphabetic text (English
 then automatically copies the translation to clipboard
 
 PS: When you want to translate morse to alphabetic,
-    make sure there is a space after your morse code
+    make sure there is a space in the end of your morse code
     so the last char won't be ignored.
+    e.g. ".- -... -.-. "
